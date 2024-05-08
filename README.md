@@ -2,7 +2,7 @@
 
 # membuat halaman webiste sederhana menggunakan html dan css
 
-# dtruktur file
+# struktur file
 Project:
     styles:
 
